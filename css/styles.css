@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+iframe {
+    width: 100%;
+    height: 350px;
+}
+
+.video {
+    width: 50%;
+}
